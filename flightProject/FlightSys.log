@@ -1,0 +1,262 @@
+2018-09-16 09:29:43  INFO com.wbhz.flightsys.Service.impl.AdminServiceImpl:75 - 登陆失败——>用户名：【admin01】 原因：【账号处于锁定状态】
+2018-09-16 09:32:55  INFO com.wbhz.flightsys.Service.impl.AdminServiceImpl:76 - 登陆失败——>用户名：【admin01】 原因：【账号处于锁定状态】
+2018-09-16 09:34:57 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:49 - 成功登陆——>用户名：【admin01】
+2018-09-16 09:37:12 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:49 - 成功登陆——>用户名：【admin01】
+2018-09-16 09:40:23 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:49 - 成功登陆——>用户名：【admin01】
+2018-09-16 09:40:34 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin01】 原因：【密码错误】
+2018-09-16 09:48:53 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin01】 原因：【密码错误】
+2018-09-16 09:49:03 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin01】 原因：【密码错误】
+2018-09-16 09:49:13 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin01】 原因：【密码错误】
+2018-09-16 09:54:59  INFO com.wbhz.flightsys.UI.UserInterface:165 - 注册账户——>用户名：【1】 密码：【s1】 支付密码：【111111】
+2018-09-16 09:55:05  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 09:55:09  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 09:55:12  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 09:55:16  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 10:01:48 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin01】 原因：【密码错误】
+2018-09-16 10:02:03 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:72 - 登陆失败——>用户名：【admin01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:02:03】
+2018-09-16 10:02:18 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin02】 原因：【密码错误】
+2018-09-16 10:02:27 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin02】 原因：【密码错误】
+2018-09-16 10:02:37 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin02】 原因：【密码错误】
+2018-09-16 10:04:35 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:72 - 登陆失败——>用户名：【admin02】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:04:35】
+2018-09-16 10:08:49 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin03】 原因：【密码错误】
+2018-09-16 10:10:31 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin03】 原因：【密码错误】
+2018-09-16 10:11:26 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:56 - 登陆失败——>用户名：【admin03】 原因：【密码错误】
+2018-09-16 10:33:58 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin04】
+2018-09-16 10:35:47 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin04】
+2018-09-16 10:36:51 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:76 - 登陆失败——>用户名：【admin03】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:36:51】
+2018-09-16 10:37:02 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin04】
+2018-09-16 10:37:09 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:125 - 管理员解封——> 用户名：【admin01】
+2018-09-16 10:37:16 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:125 - 管理员解封——> 用户名：【admin02】
+2018-09-16 10:37:24 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:125 - 管理员解封——> 用户名：【admin03】
+2018-09-16 10:37:44 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin02】 原因：【密码错误】
+2018-09-16 10:37:49 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin02】 原因：【密码错误】
+2018-09-16 10:37:57 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin02】 原因：【密码错误】
+2018-09-16 10:37:57 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:76 - 登陆失败——>用户名：【admin02】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:37:57】
+2018-09-16 10:42:58 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin03】 原因：【密码错误】
+2018-09-16 10:43:05 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin03】 原因：【密码错误】
+2018-09-16 10:43:10 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:55 - 登陆失败——>用户名：【admin03】 原因：【密码错误】
+2018-09-16 10:43:11 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:78 - 登陆失败——>用户名：【admin03】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:43:11】
+2018-09-16 10:52:17  INFO com.wbhz.flightsys.UI.UserInterface:165 - 注册账户——>用户名：【user】 密码：【a1】 支付密码：【111111】
+2018-09-16 10:53:33  INFO com.wbhz.flightsys.UI.UserInterface:165 - 注册账户——>用户名：【user01】 密码：【b1】 支付密码：【222222】
+2018-09-16 10:53:47  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 10:54:00  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 10:54:08  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 10:56:27  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:111 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:56:27】
+2018-09-16 10:56:36 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 10:56:42 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:110 - 用户解封——> 用户名：【user01】
+2018-09-16 10:56:52  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 10:56:57  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 10:57:02  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 10:58:01  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:111 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 10:58:01】
+2018-09-16 11:00:10 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 11:00:14 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:110 - 用户解封——> 用户名：【user01】
+2018-09-16 11:00:29  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 11:00:37  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 11:00:42  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 11:00:42  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 11:00:42】
+2018-09-16 13:35:12  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 13:39:07  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 13:39:50  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 13:40:00  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 13:39:58】
+2018-09-16 13:41:02 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 13:41:06 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:109 - 用户解封——> 用户名：【user01】
+2018-09-16 13:41:58  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 13:42:02  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 13:42:17  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 13:42:17  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 13:42:17】
+2018-09-16 13:42:35  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 13:46:46  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 13:46:46  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 13:46:46】
+2018-09-16 13:50:00  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:02:29  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:02:29  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 14:02:29】
+2018-09-16 14:08:10  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:08:19  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:08:19  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 14:08:19】
+2018-09-16 14:08:32  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:08:36  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:08:36  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 14:08:36】
+2018-09-16 14:08:59  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:10:41  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:10:41  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:112 - 登陆失败——>用户名：【user01】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 14:10:41】
+2018-09-16 14:11:56  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:12:50  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:13:24  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:40:25  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:98 - 登陆失败——>用户名：【user01】 原因：【账号处于锁定状态】
+2018-09-16 14:40:53 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 14:40:58 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【user01】
+2018-09-16 14:42:18  INFO com.wbhz.flightsys.Service.impl.AdminServiceImpl:65 - 登陆失败——>用户名：【admin02】 原因：【账号处于锁定状态】
+2018-09-16 14:42:24  INFO com.wbhz.flightsys.Service.impl.AdminServiceImpl:65 - 登陆失败——>用户名：【admin02】 原因：【账号处于锁定状态】
+2018-09-16 14:42:33  INFO com.wbhz.flightsys.Service.impl.AdminServiceImpl:65 - 登陆失败——>用户名：【admin03】 原因：【账号处于锁定状态】
+2018-09-16 14:42:57 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 14:44:37 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 21:26:33  INFO com.wbhz.flightsys.UI.UserInterface:165 - 注册账户——>用户名：【1】 密码：【s1】 支付密码：【111111】
+2018-09-16 21:28:01  INFO com.wbhz.flightsys.UI.UserInterface:165 - 注册账户——>用户名：【2】 密码：【s2】 支付密码：【222222】
+2018-09-16 21:46:21  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:46:25  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:46:32  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:47:53  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:47:56  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:47:58  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:48:39  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:49:42  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-16 21:58:47  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:108 - 登陆失败——>用户名：【1】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 21:58:44】
+2018-09-16 21:59:24  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-16 21:59:28  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-16 21:59:34  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:88 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-16 22:05:48  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-16 22:06:12  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-16 22:06:15  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-16 22:06:15  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:106 - 登陆失败——>用户名：【2】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-17 22:06:15】
+2018-09-16 22:06:20  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:96 - 登陆失败——>用户名：【1】 原因：【账号处于锁定状态】
+2018-09-16 22:06:22  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:96 - 登陆失败——>用户名：【2】 原因：【账号处于锁定状态】
+2018-09-17 22:07:13  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 22:07:22  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 22:08:30 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 22:08:38 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【2】
+2018-09-16 22:08:41 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【1】
+2018-09-16 22:14:18  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 22:58:19 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 22:59:04 DEBUG com.wbhz.flightsys.UI.AdminInterface:152 - 添加航班——>航班号：【1】 起飞时间:【2018-09-16 23:55:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-16 22:59:21  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 23:09:23  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 23:10:26  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 23:11:54  INFO com.wbhz.flightsys.UI.UserInterface:351 - 订票成功——>订票人：【1】订单号为：2航班号：【1】 起飞时间:【2018-09-16 23:55:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-16 23:13:00  INFO com.wbhz.flightsys.UI.UserInterface:362 - 账户锁定——>原因：【购票时，支付密码错误超过限制】
+2018-09-16 23:13:10  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:96 - 登陆失败——>用户名：【1】 原因：【账号处于锁定状态】
+2018-09-16 23:13:18 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-16 23:13:21 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【1】
+2018-09-16 23:13:46  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【user01】 原因：【密码错误】
+2018-09-16 23:13:55  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 23:51:44  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 23:53:56  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-16 23:54:11  INFO com.wbhz.flightsys.UI.UserInterface:360 - 订票成功——>订票人：【1】订单号为：3航班号：【1】 起飞时间:【2018-09-16 23:55:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-17 00:11:28  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:12:36  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:14:55 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 00:16:32 DEBUG com.wbhz.flightsys.UI.AdminInterface:152 - 添加航班——>航班号：【2】 起飞时间:【2018-09-17 02:20:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-17 00:16:52  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:19:45  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:24:19  INFO com.wbhz.flightsys.UI.UserInterface:361 - 订票成功——>订票人：【1】订单号为：4航班号：【2】 起飞时间:【2018-09-17 02:20:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-17 00:25:01  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:30:18 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 00:30:51 DEBUG com.wbhz.flightsys.UI.AdminInterface:152 - 添加航班——>航班号：【4】 起飞时间:【2018-09-17 04:30:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-17 00:31:00  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:34:16  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:36:11  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:37:54  INFO com.wbhz.flightsys.UI.UserInterface:361 - 订票成功——>订票人：【1】订单号为：8航班号：【4】 起飞时间:【2018-09-17 04:30:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-17 00:40:10  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:41:36  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:45:57  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:46:27  INFO com.wbhz.flightsys.UI.UserInterface:361 - 订票成功——>订票人：【1】订单号为：9航班号：【4】 起飞时间:【2018-09-17 04:30:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-17 00:47:43  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:49:13  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:49:20  INFO com.wbhz.flightsys.UI.UserInterface:422 - 退票成功——>退票人：【1】订单号为：7
+2018-09-17 00:49:45  INFO com.wbhz.flightsys.UI.UserInterface:422 - 退票成功——>退票人：【1】订单号为：9
+2018-09-17 00:49:50  INFO com.wbhz.flightsys.UI.UserInterface:422 - 退票成功——>退票人：【1】订单号为：9
+2018-09-17 00:50:22  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:52:32  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:52:53  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 00:53:01  INFO com.wbhz.flightsys.UI.UserInterface:271 - 个人信息修改——> 用户名：【1】新密码：【s2】
+2018-09-17 00:53:09  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:106 - 登陆失败——>用户名：【1】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-18 00:53:09】
+2018-09-17 00:58:28  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【2】
+2018-09-17 01:04:40  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【2】
+2018-09-17 01:04:47  INFO com.wbhz.flightsys.UI.UserInterface:271 - 个人信息修改——> 用户名：【2】新密码：【s1】新手机号:【15366345689】新家庭住址:【1】
+2018-09-17 01:04:52  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-17 01:05:00  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:96 - 登陆失败——>用户名：【1】 原因：【账号处于锁定状态】
+2018-09-17 01:05:04  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【2】
+2018-09-17 01:05:31 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 01:06:00 DEBUG com.wbhz.flightsys.UI.AdminInterface:180 - 删除航班——>成功  航班号为：【1】
+2018-09-17 01:06:33 DEBUG com.wbhz.flightsys.UI.AdminInterface:232 - 修改航班信息——>成功  航班号：【2】 起飞时间:【null】 飞行时间:【null】 出发地:【null】 目的地:【null】 总票数:【0】 剩余票数:【0】 票价:【0.0】
+2018-09-17 01:07:05 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:124 - 管理员解封——> 用户名：【admin02】
+2018-09-17 01:07:09 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:124 - 管理员解封——> 用户名：【admin03】
+2018-09-17 01:07:13 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【1】
+2018-09-17 01:08:07  INFO com.wbhz.flightsys.UI.UserInterface:243 - 密码找回——>用户名：【1】 新密码：【s1】
+2018-09-17 08:12:43  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 08:13:47  INFO com.wbhz.flightsys.UI.UserInterface:272 - 个人信息修改——> 用户名：【1】新密码：【s1】新手机号:【84752928】新家庭住址:【1】
+2018-09-17 08:18:30  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 08:19:05  INFO com.wbhz.flightsys.UI.UserInterface:272 - 个人信息修改——> 用户名：【1】新密码：【s1】新手机号:【17856422135】新家庭住址:【1】
+2018-09-17 08:20:11  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 08:20:19  INFO com.wbhz.flightsys.UI.UserInterface:272 - 个人信息修改——> 用户名：【1】新密码：【s11】新手机号:【17856422135】新家庭住址:【1】
+2018-09-17 08:20:30  INFO com.wbhz.flightsys.UI.UserInterface:272 - 个人信息修改——> 用户名：【1】新密码：【s1】新手机号:【17856422135】新家庭住址:【1】
+2018-09-17 08:25:33 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 08:34:29 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 08:34:44 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:09:47 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:11:44 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:13:21 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:14:03 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:14:11 DEBUG com.wbhz.flightsys.UI.AdminInterface:232 - 修改航班信息——>成功  航班号：【2】 起飞时间:【null】 飞行时间:【null】 出发地:【null】 目的地:【null】 总票数:【0】 剩余票数:【0】 票价:【0.0】
+2018-09-17 09:21:09 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:22:21 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 09:23:26 DEBUG com.wbhz.flightsys.UI.AdminInterface:152 - 添加航班——>航班号：【a】 起飞时间:【2018-09-30 21:30:00】 飞行时间:【120】 出发地:【1】 目的地:【1】 总票数:【1】 剩余票数:【1】 票价:【1000.0】
+2018-09-17 09:23:56 DEBUG com.wbhz.flightsys.UI.AdminInterface:152 - 添加航班——>航班号：【b】 起飞时间:【2018-10-31 21:30:00】 飞行时间:【111】 出发地:【1】 目的地:【1】 总票数:【2】 剩余票数:【2】 票价:【1.0】
+2018-09-17 09:29:46  INFO com.wbhz.flightsys.UI.UserInterface:245 - 密码找回——>用户名：【1】 新密码：【s1】
+2018-09-17 12:21:53  INFO com.wbhz.flightsys.UI.UserInterface:165 - 注册账户——>用户名：【a】 密码：【s1】 支付密码：【111111】
+2018-09-17 12:23:44  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 12:27:45  INFO com.wbhz.flightsys.UI.UserInterface:245 - 密码找回——>用户名：【1】 新密码：【s1】
+2018-09-17 12:29:21  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 12:29:24  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 12:29:26  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 12:29:26  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:106 - 登陆失败——>用户名：【1】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-18 12:29:26】
+2018-09-17 12:29:57  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:96 - 登陆失败——>用户名：【1】 原因：【账号处于锁定状态】
+2018-09-17 12:32:14  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【2】 原因：【密码错误】
+2018-09-17 12:32:20  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【2】
+2018-09-17 13:03:55  INFO com.wbhz.flightsys.UI.UserInterface:379 - 账户锁定——>原因：【购票时，支付密码错误超过限制】
+2018-09-17 13:05:00 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 13:05:07 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【1】
+2018-09-17 13:05:12 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【2】
+2018-09-17 13:05:23  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:26:19  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:26:52  INFO com.wbhz.flightsys.UI.UserInterface:368 - 订票成功——>订票人：【1】订单号为：1航班号：【a】 起飞时间:【2018-09-30 21:30:00】 飞行时间:【120】 出发地:【1】 目的地:【1】 总票数:【1】 剩余票数:【1】 票价:【1000.0】
+2018-09-17 13:29:22  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:31:23  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:33:23  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:34:39  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:34:58  INFO com.wbhz.flightsys.UI.UserInterface:368 - 订票成功——>订票人：【1】订单号为：2航班号：【b】 起飞时间:【2018-10-31 21:30:00】 飞行时间:【111】 出发地:【1】 目的地:【1】 总票数:【2】 剩余票数:【2】 票价:【1.0】
+2018-09-17 13:40:09  INFO com.wbhz.flightsys.UI.UserInterface:429 - 退票成功——>退票人：【1】订单号为：1
+2018-09-17 13:40:09  INFO com.wbhz.flightsys.UI.UserInterface:440 - 账户锁定——>原因：【退票时，支付密码错误超过限制】
+2018-09-17 13:43:21 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 13:43:24 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【1】
+2018-09-17 13:43:38  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:43:45  INFO com.wbhz.flightsys.UI.UserInterface:429 - 退票成功——>退票人：【1】订单号为：2
+2018-09-17 13:43:45  INFO com.wbhz.flightsys.UI.UserInterface:442 - 账户锁定——>原因：【退票时，支付密码错误超过限制】
+2018-09-17 13:49:29 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-17 13:49:31 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:107 - 用户解封——> 用户名：【1】
+2018-09-17 13:49:39  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:49:54  INFO com.wbhz.flightsys.UI.UserInterface:368 - 订票成功——>订票人：【1】订单号为：3航班号：【a】 起飞时间:【2018-09-30 21:30:00】 飞行时间:【120】 出发地:【1】 目的地:【1】 总票数:【1】 剩余票数:【1】 票价:【1000.0】
+2018-09-17 13:50:06  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:50:12  INFO com.wbhz.flightsys.UI.UserInterface:429 - 退票成功——>退票人：【1】订单号为：3
+2018-09-17 13:51:09  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:51:46  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-17 13:51:59  INFO com.wbhz.flightsys.UI.UserInterface:368 - 订票成功——>订票人：【1】订单号为：4航班号：【a】 起飞时间:【2018-09-30 21:30:00】 飞行时间:【120】 出发地:【1】 目的地:【1】 总票数:【1】 剩余票数:【1】 票价:【1000.0】
+2018-09-17 13:52:05  INFO com.wbhz.flightsys.UI.UserInterface:429 - 退票成功——>退票人：【1】订单号为：4
+2018-09-17 13:52:49  INFO com.wbhz.flightsys.UI.UserInterface:278 - 个人信息修改——> 用户名：【1】新密码：【s11】新手机号:【15333664589】新家庭住址:【1】
+2018-09-17 15:53:22  INFO com.wbhz.flightsys.UI.UserInterface:171 - 注册账户——>用户名：【3】 密码：【s1】 支付密码：【111111】
+2018-09-17 15:54:13  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 15:54:15  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 15:54:18  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-17 15:54:18  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:106 - 登陆失败——>用户名：【1】 原因：【密码错误-尝试过多】   锁定时间至：【2018-09-18 15:54:18】
+2018-09-17 15:54:20  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:96 - 登陆失败——>用户名：【1】 原因：【账号处于锁定状态】
+2018-09-18 15:54:50  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-18 15:55:06  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-18 15:55:16  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 15:57:52 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-18 15:58:18  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 15:58:37 DEBUG com.wbhz.flightsys.Service.impl.AdminServiceImpl:48 - 成功登陆——>用户名：【admin01】
+2018-09-18 15:59:24 DEBUG com.wbhz.flightsys.UI.AdminInterface:160 - 添加航班——>航班号：【MH370】 起飞时间:【2018-09-18 18:00:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【500.0】
+2018-09-18 16:00:17 DEBUG com.wbhz.flightsys.UI.AdminInterface:160 - 添加航班——>航班号：【MH377】 起飞时间:【2018-10-01 10:30:00】 飞行时间:【120】 出发地:【南京】 目的地:【上海】 总票数:【200】 剩余票数:【200】 票价:【1000.0】
+2018-09-18 16:00:41  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:01:36  INFO com.wbhz.flightsys.UI.UserInterface:382 - 订票成功——>订票人：【1】订单号为：5航班号：【MH370】 起飞时间:【2018-09-18 18:00:00】 飞行时间:【120】 出发地:【南京】 目的地:【北京】 总票数:【200】 剩余票数:【200】 票价:【500.0】
+2018-09-18 16:03:37  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:07:20  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:11:51  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:12:28  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:13:09  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:86 - 登陆失败——>用户名：【1】 原因：【密码错误】
+2018-09-18 16:13:25  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:24:31  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:28:08  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:29:47  INFO com.wbhz.flightsys.Service.impl.UserServiceImpl:79 - 成功登陆——>用户名：【1】
+2018-09-18 16:30:01  INFO com.wbhz.flightsys.UI.UserInterface:447 - 退票成功——>退票人：【1】订单号为：5
+2018-09-18 16:30:09  INFO com.wbhz.flightsys.UI.UserInterface:447 - 退票成功——>退票人：【1】订单号为：6
+2018-09-18 16:30:20  INFO com.wbhz.flightsys.UI.UserInterface:291 - 个人信息修改——> 用户名：【1】新密码：【s1】新手机号:【15333664589】新家庭住址:【1】
