@@ -1,0 +1,54 @@
+
+管理员信息表：
+create table t_admin (
+t_id varchar(18) primary key ,
+t_username varchar(20) not null,
+t_pwd varchar(20) not null,
+t_name varchar(20) not null,
+t_phonenumber varchar(20) not null,
+t_times int not null ,
+t_locktime datetime not null
+)engine = Innodb;
+
+
+航班信息表：
+create table t_flight(
+t_flightnumber varchar(10) not null ,
+t_takeofftime datetime not null,
+t_flyingtime varchar(20) not null,
+t_startplace varchar(40) not null,
+t_endplace varchar(40) not null,
+t_ticketmax int not null ,
+t_ticketleft int not null,
+t_price float not null
+)engine=Innodb ;
+
+
+用户信息表：
+create table t_user(
+t_userid varchar(18) primary key ,
+t_name varchar(10) not null,
+t_username varchar(10) not null,
+t_pwd varchar(16) not null,
+t_confirmpwd char(6) not null ,
+t_sex varchar(10) not null,
+t_phonenumber varchar(11) not null,
+t_address varchar(100) not null,
+t_logintimes int not null ,
+t_locktime datetime not null,
+t_lockdate date not null
+)engine=Innodb;
+
+
+购票信息表：
+create table t_billings(
+t_ordernumber int primary key auto_increment,
+t_flightnumber varchar(10) not null,
+t_startplace varchar(20) not null,
+t_endplace varchar(20) not null,
+t_takeofftime datetime not null,
+t_price float not null,
+t_name varchar(40) not null,
+t_username varchar(10) not null,
+t_userID varchar(20) not null
+)engine=Innodb;
